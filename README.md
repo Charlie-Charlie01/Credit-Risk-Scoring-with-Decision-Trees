@@ -1,5 +1,6 @@
 # Credit-Risk-Scoring-with-Decision-Trees
 Credit Risk Scoring is a machine learning application used by banks, fintech companies, and lenders to predict the likelihood that a borrower will default on a loan — i.e., fail to repay it.
+
 What It Does in the Real World
 When someone applies for a loan, credit card, or mortgage, the lender needs to quickly answer one question:
 
