@@ -1,0 +1,50 @@
+{
+ "cells": [
+  {
+   "cell_type": "markdown",
+   "id": "379e9a50-9aa2-4660-b391-a386f5e35b97",
+   "metadata": {},
+   "source": [
+    "## Credit Risk Scoring"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "38c598af-7a1d-4317-ad93-e9ff999a10f3",
+   "metadata": {},
+   "source": [
+    "Credit Risk Scoring is about helping banks decide whether to approve or reject a loan application. When a customer applies for a loan, the bank collects details like income and loan amount, then uses a model to generate a risk score — predicting the likelihood the customer will default.\n",
+    "The model learns from historical loan data, where each record includes the loan details and whether the customer repaid or defaulted. This allows the bank to make faster, data-driven lending decisions."
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "29890e90-e571-40eb-a5a6-fa475e49628d",
+   "metadata": {},
+   "outputs": [],
+   "source": []
+  }
+ ],
+ "metadata": {
+  "kernelspec": {
+   "display_name": "Python 3 (ipykernel)",
+   "language": "python",
+   "name": "python3"
+  },
+  "language_info": {
+   "codemirror_mode": {
+    "name": "ipython",
+    "version": 3
+   },
+   "file_extension": ".py",
+   "mimetype": "text/x-python",
+   "name": "python",
+   "nbconvert_exporter": "python",
+   "pygments_lexer": "ipython3",
+   "version": "3.12.1"
+  }
+ },
+ "nbformat": 4,
+ "nbformat_minor": 5
+}
